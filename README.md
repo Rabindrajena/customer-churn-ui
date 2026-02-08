@@ -92,7 +92,7 @@ The app will be available at:
 
   ---
 
-  ## **Notes**
+## **Notes**
 
 * Ensure the backend API URL is correctly configured in the frontend
 
